@@ -16,7 +16,7 @@ Live portfolio: https://lucasdaly11-svg.github.io/Portfolio/
 
 The portfolio covers Lucas's personal PC builds, Windows installations, informal troubleshooting, customer service experience, GCSEs, further study, full UK driving licence and interests.
 
-It also features DeepIT, Lucas's small website design business. DeepIT was previously called LocalLaunch and now focuses on website design. The site includes work for LJ Sole Crafts, a local shoe-cleaning business.
+It also features DeepIT, Lucas's small website design business. DeepIT focuses on website design for small businesses. The site includes work for LJ Sole Crafts, a local shoe-cleaning business.
 
 Networking, cloud infrastructure and cybersecurity are presented as areas Lucas wants to develop. The motherboard USB example is described as a planned support task, and the troubleshooting walkthrough is illustrative.
 
