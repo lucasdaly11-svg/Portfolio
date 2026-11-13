@@ -1,34 +1,25 @@
 # Lucas Daly — IT Portfolio
 
-An interactive, mobile-friendly portfolio focused on entry-level IT support, PC hardware and networking opportunities.
+A mobile-friendly portfolio for entry-level IT support, PC hardware and networking opportunities.
+
+Live portfolio: https://lucasdaly11-svg.github.io/Portfolio/
 
 ## Files
 
-- `index.html` — the complete website and portfolio content
+- `index.html` — portfolio content and page structure
 - `styles.css` — desktop, tablet and mobile styles
-- `app.js` — project filters, case-study support, role tabs, troubleshooting walkthrough, mobile menu and email copying
-- `favicon.svg` — the site icon
-- `.nojekyll` — keeps static files served directly when using GitHub Pages
+- `app.js` — project filters, case studies, role tabs, troubleshooting walkthrough, mobile menu and email copying
+- `favicon.svg` — site icon
+- `.nojekyll` — serves static files directly with GitHub Pages
 
-## Add to GitHub
+## About the portfolio
 
-1. Extract this ZIP.
-2. Create a **private** GitHub repository to preserve the requested privacy.
-3. Upload all the files in this folder to the repository root, with `index.html` at the top level. Upload the extracted files, rather than the ZIP itself.
-4. Commit the upload.
+The portfolio covers Lucas's personal PC builds, Windows installations, informal troubleshooting, customer service experience, GCSEs, further study, full UK driving licence and interests.
 
-No install or build step is required. Open `index.html` to preview it locally. The email-copy button may depend on browser clipboard permissions; the email and phone links work independently.
+It also features DeepIT, Lucas's small website design business. DeepIT was previously called LocalLaunch and now focuses on website design. The site includes work for LJ Sole Crafts, a local shoe-cleaning business.
 
-## Privacy
-
-The site includes Lucas's professional email address and phone number. A private repository and a private website are separate settings. The existing Sites deployment remains private, and this download does not change it. These static files do not contain their own sign-in gate; visitor access is enforced by the hosting provider. Do not publish this copy publicly without Lucas's approval. The `noindex` tag discourages search indexing but does not restrict access.
+Networking, cloud infrastructure and cybersecurity are presented as areas Lucas wants to develop. The motherboard USB example is described as a planned support task, and the troubleshooting walkthrough is illustrative.
 
 ## Editing
 
-Edit text, GCSEs, work experience and contact links in `index.html`. Role-specific summaries and diagnostic branches are in `app.js`. Design and responsive layouts are in `styles.css`. Typography uses Google Fonts with system-font fallbacks.
-
-Projects are grounded in personal PC builds, Windows setup, informal troubleshooting and LocalLaunch. Networking is presented as a learning focus. The motherboard USB example is described as a planned support task; the troubleshooting walkthrough is illustrative.
-
-## Verification
-
-The site was checked in a browser at desktop, tablet and narrow phone sizes. All six category filters, five expandable project sections, diagnostic branches, keyboard-operated role tabs, the mobile menu and email copying were exercised. Section links, local assets and accessible element references were checked. No third-party JavaScript, analytics or contact-form service is required.
+Update the page content and contact links in `index.html`. Role summaries and diagnostic branches are in `app.js`; design and responsive layouts are in `styles.css`. The site has no install or build step.
